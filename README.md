@@ -1,2 +1,2 @@
 # findmyhat
-Javascript test
+This project is a Javascript test assignment
